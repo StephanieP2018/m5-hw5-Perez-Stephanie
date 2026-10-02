@@ -1,6 +1,7 @@
 # m5-hw5-Perez-Stephanie
 | Issue found | Fix made | Verification |
 | --- | --- | --- |
+I audited the site with Lighthouse, fixed the accessibility issues listed below, and reran the audit to check the results.
 | Navigation text had low contrast | Changed the text color to white in `styles.css` | Re-ran lighthouse; issue no longer appears |
 | Body text had low contrast | Changed the text color to black in `styles.css` | Re-ran lighthouse; issue no longer appears |
 | Inquiry Box text had low contrast | Changed the text color to black in `styles.css` | Re-ran lighthouse; issue no longer appears |
